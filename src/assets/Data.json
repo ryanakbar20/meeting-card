@@ -1,0 +1,39 @@
+{
+  "dataEvent": [
+    {
+      "title": "Meeting dengan CEO",
+      "location": "Jakarta Timur",
+      "Participant": "Rian Akbar",
+      "date": "20 April 2020",
+      "note": "Pembahasan rencana perusahaan 5 tahun kedepan"
+    },
+    {
+      "title": "Meeting dengan HRD",
+      "location": "Jakarta Barat",
+      "Participant": "Arya Dwi",
+      "date": "27 Mei 2020",
+      "note": "Pembahasan Interview Talent"
+    },
+    {
+      "title": "Meeting dengan Client",
+      "location": "Bekasi Selatan",
+      "Participant": "Prawito Hudoro",
+      "date": "12 Juni 2020",
+      "note": "Pembahasan rencana investasi oleh client"
+    },
+    {
+      "title": "Meeting dengan CEO",
+      "location": "Jakarta Timur",
+      "Participant": "Rian Akbar",
+      "date": "20 April 2020",
+      "note": "Pembahasan rencana perusahaan 5 tahun kedepan"
+    },
+    {
+      "title": "Meeting dengan HRD",
+      "location": "Jakarta Barat",
+      "Participant": "Arya Dwi",
+      "date": "27 Mei 2020",
+      "note": "Pembahasan Interview Talent"
+    }
+  ]
+}
